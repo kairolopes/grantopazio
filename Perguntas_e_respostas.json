@@ -1,493 +1,84 @@
 {
-  "perguntas_respostas": [
+  "qa_pairs": [
     {
-      "pergunta": "Qual é o objetivo do Regulamento Interno do Condomínio Gran Topázio?",
-      "resposta": "Disciplinar a conduta e o comportamento de todos os moradores, complementando as leis aplicáveis e a Convenção Condominial."
+      "question": "Vocês oferecem transporte para buscar o animal de estimação para o banho, incluindo detalhes sobre agendamento e custos?",
+      "answer": "Sim, oferecemos transporte para buscar o pet. Basta informar o endereço e agendamos o horário mais conveniente para você. O custo do transporte estará incluído no valor total do serviço."
     },
     {
-      "pergunta": "Quando e onde o regulamento foi aprovado?",
-      "resposta": "Foi aprovado em 16 de janeiro de 2017, no município de Goiânia."
+      "question": "Qual é o valor total do banho e do transporte para meu cachorro, considerando porte e promoções?",
+      "answer": "O valor do banho depende do porte do cachorro, mas, geralmente, é R$75, e o transporte custa R$7. Caso haja promoções ou outros serviços adicionais, ajustamos o valor no momento do agendamento."
     },
     {
-      "pergunta": "Quais são as leis mencionadas como base para o regulamento?",
-      "resposta": "Lei nº 4.591 de 16/12/1964 e Lei nº 10.406 de 10/01/2002."
+      "question": "Quais cuidados estão incluídos no banho do meu pet, como limpeza de ouvidos e corte de unhas?",
+      "answer": "Nosso banho inclui limpeza de ouvidos, corte de unhas, uso de produtos profissionais como o shampoo da linha Dolce Pet, que possui ação cicatrizante, além de deixar o pet limpinho e cheiroso."
     },
     {
-      "pergunta": "Quais são os direitos dos condôminos?",
-      "resposta": [
-        "Usufruir com tranquilidade, conforto e segurança das áreas e serviços comuns.",
-        "Participar das relações e atividades condominiais, podendo registrar suas opiniões em um livro disponível na administração."
-      ]
+      "question": "Vocês oferecem pacotes mensais para banhos, incluindo vantagens e condições de transporte?",
+      "answer": "Sim, temos o 'Clubinho', que inclui cinco banhos mensais com produtos de alta qualidade. É possível adicionar pacotes extras como hidratação ou higienização dental. O transporte não está incluído, mas pode ser contratado separadamente."
     },
     {
-      "pergunta": "Quais são os deveres dos condôminos?",
-      "resposta": [
-        "Conhecer, cumprir e fazer cumprir as Leis, a Convenção do Condomínio, o Regulamento Interno e as decisões das assembleias.",
-        "Na locação de uma unidade, anexar uma cópia deste regulamento ao contrato de locação e incluir uma cláusula que exija o cumprimento do mesmo.",
-        "Contribuir financeiramente para o custeio das áreas comuns, através do pagamento da taxa condominial e de melhorias."
-      ]
+      "question": "O que é o serviço de cardação e como ele ajuda a reduzir a queda de pelos do meu pet?",
+      "answer": "A cardação é uma técnica que remove os pelos mortos, reduzindo a queda dos pelos pela casa e deixando a pelagem mais brilhante. É ideal para cães que soltam muito pelo."
     },
     {
-      "pergunta": "Como deve ser comunicada uma mudança?",
-      "resposta": "O proprietário ou administradora deve comunicar a administração por escrito, com firma reconhecida, informando a data e hora da mudança com 2 dias úteis de antecedência."
+      "question": "Quais rações vocês recomendam além do Pedigree, e como fazer a troca de forma gradual?",
+      "answer": "Recomendamos o Dogmil, uma ração sem corantes e com maior quantidade de proteína, que ajuda na saúde do pet. Podemos oferecer amostras grátis para você experimentar e fazer uma troca de forma gradual."
     },
     {
-      "pergunta": "Quando é necessário reconhecimento de firma para mudanças?",
-      "resposta": "Para mudanças de entrada, é necessário reconhecimento de firma. Para retiradas parciais de móveis, basta comunicar no livro de ocorrências."
+      "question": "Como funciona a promoção que combina cardação e hidratação para o meu pet?",
+      "answer": "Temos uma promoção onde a cardação e a hidratação saem por R$25. Esses cuidados adicionais deixam o pelo do pet mais saudável, com brilho e maciez."
     },
     {
-      "pergunta": "Quais são os horários permitidos para mudanças?",
-      "resposta": {
-        "segunda_a_sexta": "8h às 17h",
-        "sabado": "9h às 12h",
-        "domingos_e_feriados": "Proibido"
-      }
+      "question": "Posso agendar o banho do meu pet para o mesmo dia, considerando disponibilidade de horários?",
+      "answer": "Sim, dependendo da disponibilidade do dia, conseguimos agendar o banho no mesmo dia. É só entrar em contato para verificar os horários disponíveis."
     },
     {
-      "pergunta": "O que deve ser feito após a mudança?",
-      "resposta": "Os moradores devem atualizar seus dados cadastrais junto à administração."
+      "question": "Quais são as formas de pagamento disponíveis para os serviços oferecidos?",
+      "answer": "Aceitamos pagamento via Pix, transferência bancária ou em dinheiro. Após o serviço, enviamos o valor detalhado e a chave Pix para sua comodidade."
     },
     {
-      "pergunta": "O que um novo proprietário deve apresentar ao se mudar?",
-      "resposta": "Deve apresentar a documentação de transmissão de propriedade e posse da unidade."
+      "question": "O que fazer se o pet ficar com cheiro de cachorro molhado após o banho?",
+      "answer": "Caso isso aconteça, é importante nos avisar. Trabalhamos para que o pet volte para casa bem seco e cheiroso, utilizando perfumes e produtos de qualidade. Também ajustamos o processo para evitar que isso se repita."
     },
     {
-      "pergunta": "Quem pode realizar inspeções nas unidades autônomas?",
-      "resposta": "O síndico, subsíndico, membros do conselho ou zelador podem realizar inspeções relacionadas ao interesse coletivo."
+      "question": "Vocês oferecem escovação dentária como parte dos serviços e qual o custo adicional?",
+      "answer": "Sim, realizamos uma escovação dentária por um adicional de R$5. Para isso, pedimos que adquira uma escova dental conosco por R$10, garantindo a saúde e o bem-estar do seu pet."
     },
     {
-      "pergunta": "O que deve ser feito em caso de doença infectocontagiosa na unidade?",
-      "resposta": "Informar imediatamente ao síndico, subsíndico ou zelador."
+      "question": "É possível adicionar serviços extras ao banho, como cardação e hidratação?",
+      "answer": "Claro! Oferecemos serviços extras como cardação, hidratação e escovação dentária. É só nos avisar durante o agendamento para incluir no pacote do banho."
     },
     {
-      "pergunta": "Qual é a velocidade máxima permitida nas áreas internas do condomínio?",
-      "resposta": "A velocidade máxima permitida é de 10 km/h."
+      "question": "Quais produtos vocês utilizam no banho e são seguros para animais alérgicos?",
+      "answer": "Utilizamos produtos da linha profissional Dolce Pet, conhecidos pela qualidade e benefícios como ação cicatrizante e hidratação da pelagem. São seguros e eficazes, mesmo para animais de estimação com sensibilidades."
     },
     {
-      "pergunta": "Como os veículos devem ser estacionados?",
-      "resposta": "Os veículos devem ser estacionados nas vagas designadas, evitando calçadas e canteiros, exceto em casos noturnos quando todas as vagas estiverem ocupadas."
+      "question": "O banho inclui corte de unhas e existe custo adicional para esse serviço?",
+      "answer": "Sim, o corte de unhas está incluído no banho, sem custo adicional. É um cuidado padrão que realizamos para o conforto e bem-estar do pet."
     },
     {
-      "pergunta": "Quais são as regras para prestadores de serviços?",
-      "resposta": "Prestadores devem ser cadastrados, apresentar documentos de identificação na portaria e permitir inspeção de veículos e volumes."
+      "question": "Como posso evitar quedas de pelos do meu pet em casa?",
+      "answer": "Para reduzir a queda dos pelos, recomendamos a cardação combinada com a hidratação. Esses serviços removem os pelos mortos e fortalecem a pelagem, reduzindo significativamente a queda."
     },
     {
-      "pergunta": "Como é o acesso de empregados domésticos ao condomínio?",
-      "resposta": "O acesso depende de prévio cadastro, e o morador é responsável pelo cumprimento das normas condominiais."
+      "question": "Vocês abrem e realizam serviços em feriados?",
+      "answer": "Sim, abrimos em alguns feriados das 10h às 18h. Envie uma mensagem para confirmar a disponibilidade de horários e agendar o banho do seu pet."
     },
     {
-      "pergunta": "Como é o acesso de visitantes ao condomínio?",
-      "resposta": "Visitantes devem ser identificados e autorizados pelo morador responsável, com registro na portaria."
+      "question": "Quais cuidados vocês recomendam para pets alérgicos durante o banho?",
+      "answer": "Utilizamos produtos hipoalergênicos e fazemos uma avaliação para garantir que tudo seja seguro para o animal de estimação. Também evitamos perfumes, se necessário, e utilizamos produtos com ação cicatrizante."
     },
     {
-      "pergunta": "O que deve ser feito para hóspedes que permanecerão por tempo indeterminado?",
-      "resposta": "O condômino deve notificar o síndico ou responsável e fornecer a placa do veículo, se houver."
+      "question": "Como funciona a hidratação na pelagem do pet e quais são os seus benefícios?",
+      "answer": "A hidratação melhora a saúde do pelo, conferindo brilho, maciez e elasticidade, além de reduzir o ressecamento. É indicada para todos os animais de estimação e pode ser adicionada ao banho."
     },
     {
-      "pergunta": "Por quanto tempo os portões do condomínio devem permanecer abertos?",
-      "resposta": "Devem permanecer abertos apenas pelo tempo necessário para a entrada e saída de pessoas ou veículos."
+      "question": "Vocês tiram fotos dos pets após o banho, incluindo sessões temáticas?",
+      "answer": "Sim, oferecemos sessões de fotos temáticas durante períodos especiais, como Natal e Ano Novo, sem custo adicional para os animais de estimação que realizam o banho."
     },
     {
-      "pergunta": "É permitido usar a buzina do carro para abrir os portões do condomínio?",
-      "resposta": "Não, é proibido acionar a buzina para abrir os portões. A abertura deve ser feita através de controles individuais dos condôminos."
-    },
-    {
-      "pergunta": "Qual é o tempo permitido para embarque e desembarque de fornecedores e convidados?",
-      "resposta": "Há uma tolerância de 5 minutos para embarque e desembarque de idosos, crianças e deficientes. Para carga e descarga de materiais, a tolerância é de 30 minutos."
-    },
-    {
-      "pergunta": "As vagas rotativas podem ser usadas para visitantes?",
-      "resposta": "Não, as vagas rotativas são exclusivamente para uso dos moradores quando suas vagas estão ocupadas."
-    }
-  ]
-}
-
-
-{
-  "perguntas_respostas": [
-    {
-      "pergunta": "O que o morador deve fazer antes de iniciar uma reforma?",
-      "resposta": "Comunicar ao síndico com 48 horas de antecedência."
-    },
-    {
-      "pergunta": "Qual é o horário permitido para reformas no condomínio?",
-      "resposta": "De segunda a sexta, das 8h às 12h e das 13h às 18h; aos sábados, das 8h às 13h. Reformas são proibidas aos domingos e feriados."
-    },
-    {
-      "pergunta": "É permitido colocar materiais de construção nas garagens ou áreas comuns?",
-      "resposta": "Não, é proibido colocar qualquer tipo de material de construção na garagem ou áreas comuns."
-    },
-    {
-      "pergunta": "O que deve ser feito com os resíduos de obras?",
-      "resposta": "Devem ser transportados para fora do condomínio e acondicionados em containers contratados pelo morador."
-    },
-    {
-      "pergunta": "Quem é responsável por garantir a segurança durante uma reforma?",
-      "resposta": "O proprietário da unidade e o responsável técnico pela reforma."
-    },
-    {
-      "pergunta": "Quantas vagas de garagem rotativas existem no condomínio?",
-      "resposta": "Existem 7 vagas rotativas numeradas, com permanência máxima de 48 horas."
-    },
-    {
-      "pergunta": "Quem pode utilizar as vagas de garagem da área comum?",
-      "resposta": "Apenas os moradores; o uso por convidados em festas ou reuniões é proibido."
-    },
-    {
-      "pergunta": "Para que tipo de veículos é permitido o uso das vagas comuns?",
-      "resposta": "As vagas são exclusivas para veículos e não podem ser usadas para reboques, carretas, motos, bicicletas ou Jet-skis."
-    },
-    {
-      "pergunta": "Quando um morador pode utilizar as vagas de garagem rotativas?",
-      "resposta": "Somente quando todas as vagas da sua residência estiverem ocupadas."
-    },
-    {
-      "pergunta": "O que é expressamente proibido em relação às vagas de garagem?",
-      "resposta": "É proibido alienar ou alugar as vagas de garagem a não-residentes."
-    },
-    {
-      "pergunta": "Quais substâncias ou materiais são proibidos nas unidades e garagens?",
-      "resposta": "É proibido manter substâncias tóxicas, corrosivas, explosivas ou inflamáveis, bem como qualquer material que possa comprometer a segurança."
-    },
-    {
-      "pergunta": "Quantos animais de estimação são permitidos por unidade?",
-      "resposta": "São permitidos até dois cães de pequeno porte e temperamento dócil por unidade."
-    },
-    {
-      "pergunta": "Quais são as regras para a circulação de animais nas áreas comuns?",
-      "resposta": "Os animais devem usar coleira, guia e focinheira, e o dono deve carregar sacos plásticos para recolher as fezes."
-    },
-    {
-      "pergunta": "É permitido o acesso de animais nas áreas sociais do condomínio?",
-      "resposta": "Não, é proibido o acesso de animais ao salão de festas, piscinas, quadras, churrasqueiras e áreas adjacentes."
-    },
-    {
-      "pergunta": "O que o morador deve fazer caso haja uma doença infectocontagiosa na unidade?",
-      "resposta": "Informar imediatamente ao síndico, subsíndico ou zelador."
-    },
-    {
-      "pergunta": "Qual é a velocidade máxima permitida nas vias internas do condomínio?",
-      "resposta": "A velocidade máxima é de 10 km/h."
-    },
-    {
-      "pergunta": "Como devem ser estacionados os veículos no condomínio?",
-      "resposta": "Devem ser estacionados nas vagas demarcadas e nunca em cima de calçadas ou canteiros, exceto em casos de exceção durante a noite."
-    },
-    {
-      "pergunta": "O que é necessário para o acesso de prestadores de serviços?",
-      "resposta": "Devem ser cadastrados previamente, apresentar documentos e permitir a inspeção de veículos e volumes."
-    },
-    {
-      "pergunta": "Qual é o procedimento para o acesso de visitantes?",
-      "resposta": "Devem ser identificados e autorizados pelo morador responsável, com registro na portaria."
-    },
-    {
-      "pergunta": "É permitido o uso de buzinas para abrir os portões do condomínio?",
-      "resposta": "Não, é proibido o uso de buzinas. A abertura deve ser feita através de controles remotos individuais."
-    }
-  ]
-}
-
-{
-  "perguntas_respostas": [
-    {
-      "pergunta": "Quais são as regras para a utilização da churrasqueira?",
-      "resposta": "A utilização da churrasqueira deve ser solicitada previamente, com preenchimento de um termo de responsabilidade. O requisitante é responsável por quaisquer danos e pela manutenção das normas de convivência durante o evento."
-    },
-    {
-      "pergunta": "Qual é o horário permitido para o uso da churrasqueira com música?",
-      "resposta": "O uso da churrasqueira com música é permitido das 8h às 22h."
-    },
-    {
-      "pergunta": "É permitido remover os móveis da área da churrasqueira?",
-      "resposta": "Não, é proibida a remoção dos móveis da área da churrasqueira, exceto em caso de eventos organizados pelo condomínio."
-    },
-    {
-      "pergunta": "Qual é o tempo máximo permitido para o uso contínuo da sauna?",
-      "resposta": "O tempo máximo é de 1 hora, com um intervalo mínimo de 30 minutos antes de um novo uso, para preservar os equipamentos."
-    },
-    {
-      "pergunta": "Como deve ser feito o agendamento para o uso da sauna?",
-      "resposta": "O agendamento deve ser feito com preenchimento de um documento de requisição disponível na portaria."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso da quadra de esportes?",
-      "resposta": "A quadra pode ser usada das 8h às 22h, sendo necessário agendar previamente. O número máximo de convidados é 10, e o morador deve estar presente."
-    },
-    {
-      "pergunta": "É permitido o uso de calçados inapropriados na quadra de esportes?",
-      "resposta": "Não, é proibido o uso de calçados que possam danificar a grama ou o piso da quadra."
-    },
-    {
-      "pergunta": "Qual é o horário de funcionamento da sala de ginástica?",
-      "resposta": "A sala de ginástica funciona diariamente das 6h às 24h."
-    },
-    {
-      "pergunta": "É permitido o uso da sala de ginástica por convidados?",
-      "resposta": "Não, o uso é exclusivo para moradores."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso dos equipamentos na sala de ginástica?",
-      "resposta": "Os equipamentos devem ser usados de forma adequada, e recomenda-se uma consulta médica antes do uso. Não é permitido o uso em trajes de banho ou sem camisa."
-    },
-    {
-      "pergunta": "É permitido fumar na sala de ginástica?",
-      "resposta": "Não, é proibido fumar na sala de ginástica."
-    },
-    {
-      "pergunta": "Quais são as orientações para a utilização das piscinas?",
-      "resposta": "O uso é livre para moradores, mas é necessário passar pela ducha antes de entrar na piscina e não circular nas áreas comuns em trajes de banho."
-    },
-    {
-      "pergunta": "Quando a piscina fica fechada para manutenção?",
-      "resposta": "A piscina fica fechada para manutenção toda segunda e quinta-feira."
-    },
-    {
-      "pergunta": "Quais itens são proibidos nas piscinas?",
-      "resposta": "É proibido o uso de objetos de vidro, cortantes ou pontiagudos, sendo permitido apenas o uso de bóias infantis."
-    },
-    {
-      "pergunta": "Quais são as regras para o descarte de lixo?",
-      "resposta": "O lixo deve ser separado em orgânico (saco preto) e reciclável (saco azul ou branco). O horário de coleta para lixo orgânico é de segunda a sexta, das 7h às 9h e das 15h às 16h, e aos sábados das 7h às 9h. O lixo reciclável é coletado às segundas e terças."
-    },
-    {
-      "pergunta": "O que deve ser feito com os entulhos de reformas?",
-      "resposta": "Os entulhos devem ser retirados pelo morador para fora do condomínio. Caso contrário, será cobrada uma taxa adicional pela administração."
-    },
-    {
-      "pergunta": "Qual é a responsabilidade dos condôminos em relação aos danos causados por seus convidados?",
-      "resposta": "Os condôminos são responsáveis por quaisquer danos causados por seus convidados, familiares ou prestadores de serviço durante o uso das áreas comuns."
-    },
-    {
-      "pergunta": "O que acontece se um condômino atrasar o pagamento por danos causados no condomínio?",
-      "resposta": "Será aplicada uma multa de 10%, juros de 1% ao mês, e atualização pelo índice IGP-M, além da possível perda do direito de uso do salão de festas ou churrasqueira."
-    }
-  ]
-}
-
-{
-  "perguntas_respostas": [
-    {
-      "pergunta": "Quais são as instruções para o descarte de lixo no condomínio?",
-      "resposta": "O lixo residencial deve ser separado em resíduos orgânicos (saco preto) e recicláveis (saco azul ou branco). Deve ser colocado em frente à residência para coleta nos horários estabelecidos."
-    },
-    {
-      "pergunta": "Quais são os horários de coleta de lixo orgânico?",
-      "resposta": "De segunda a sexta-feira: das 7h às 9h e das 15h às 16h. Aos sábados: das 7h às 9h."
-    },
-    {
-      "pergunta": "Quais são os horários de coleta de lixo reciclável?",
-      "resposta": "Segunda-feira: das 15h às 16h e terça-feira: das 7h às 9h."
-    },
-    {
-      "pergunta": "O que deve ser feito com o entulho de reformas?",
-      "resposta": "Os condôminos são responsáveis por remover o entulho de reformas (madeira, concreto, etc.) para fora do condomínio. Caso não o façam, a administração cobrará uma taxa adicional."
-    },
-    {
-      "pergunta": "Qual é a penalidade para quem não descarta corretamente o entulho?",
-      "resposta": "Será aplicada uma multa equivalente a 20% do salário mínimo vigente, além das taxas condominiais."
-    },
-    {
-      "pergunta": "O que os condôminos devem fazer caso causem danos às áreas comuns?",
-      "resposta": "Devem ressarcir os prejuízos causados por eles próprios, dependentes, hóspedes, visitantes ou animais, tanto nas áreas comuns quanto nas unidades de outros condôminos."
-    },
-    {
-      "pergunta": "Como os funcionários e membros da administração devem ser tratados?",
-      "resposta": "Devem ser tratados com respeito e consideração. Reclamações ou sugestões devem ser registradas no livro de ocorrências."
-    },
-    {
-      "pergunta": "Qual é o procedimento para reformas nas unidades?",
-      "resposta": "Os condôminos devem notificar a administração com, no mínimo, 2 dias úteis de antecedência."
-    },
-    {
-      "pergunta": "Quais são as normas gerais de conduta esperadas dos condôminos?",
-      "resposta": "Os moradores devem manter comportamentos de moralidade, decência e respeito, seguindo as normas implantadas pelo conselho administrativo."
-    },
-    {
-      "pergunta": "O que acontece se um morador não comunicar o endereço para envio de correspondência?",
-      "resposta": "O condomínio não se responsabiliza por atrasos ou extravios de correspondências, nem pelo desconhecimento do conteúdo."
-    },
-    {
-      "pergunta": "Como devem ser retiradas as encomendas na portaria?",
-      "resposta": "As encomendas devem ser retiradas pelos moradores, exceto no caso de alimentação e remédios."
-    },
-    {
-      "pergunta": "Qual é a idade limite para o uso do playground?",
-      "resposta": "O playground é limitado a crianças com até 10 anos, acompanhadas ou não por um responsável."
-    },
-    {
-      "pergunta": "Quais são as responsabilidades dos pais em relação aos menores nas áreas comuns?",
-      "resposta": "Os pais são totalmente responsáveis pela segurança dos menores, incluindo o uso das áreas comuns."
-    },
-    {
-      "pergunta": "Qual é o horário permitido para o uso do salão de festas?",
-      "resposta": "O salão de festas pode ser utilizado mediante o pagamento de uma taxa de 8% do salário mínimo vigente."
-    },
-    {
-      "pergunta": "O que é necessário para utilizar o salão de festas?",
-      "resposta": "O condômino deve estar em dia com suas taxas condominiais. A taxa será cobrada no próximo boleto."
-    },
-    {
-      "pergunta": "O que acontece em caso de desistência da reserva do salão de festas?",
-      "resposta": "Se a desistência ocorrer sem justificativa válida até 5 dias antes do evento, a taxa não será devolvida."
-    },
-    {
-      "pergunta": "É permitido realizar eventos particulares no salão de festas em datas festivas tradicionais?",
-      "resposta": "Não, é proibido realizar eventos particulares no salão nas vésperas e dias de Natal, Ano Novo e durante o Carnaval."
-    },
-    {
-      "pergunta": "Quantas pessoas podem ser convidadas para eventos no salão de festas?",
-      "resposta": "O limite é de 70 convidados. Se ultrapassar 50 pessoas, é necessário apresentar uma lista de convidados na portaria."
-    },
-    {
-      "pergunta": "É permitido usar a piscina sem passar pela ducha?",
-      "resposta": "Não, todos os usuários devem tomar uma ducha antes de utilizar a piscina."
-    },
-    {
-      "pergunta": "Quais são as restrições para o uso de bóias nas piscinas?",
-      "resposta": "Somente bóias infantis são permitidas. Objetos de vidro, cortantes ou pontiagudos são proibidos."
-    }
-  ]
-}
-
-{
-  "perguntas_respostas": [
-    {
-      "pergunta": "O que deve ser feito com o entulho de obras no condomínio?",
-      "resposta": "O condômino deve retirar o entulho de sobras de reformas para fora do condomínio. Se a administração precisar removê-lo, será cobrada uma multa de 20% sobre o salário mínimo vigente."
-    },
-    {
-      "pergunta": "Qual é a conduta esperada em relação aos funcionários do condomínio?",
-      "resposta": "Os funcionários devem ser tratados com respeito e consideração. Reclamações ou sugestões devem ser registradas no livro de ocorrências."
-    },
-    {
-      "pergunta": "Qual é o procedimento para reformas nas unidades?",
-      "resposta": "O condômino deve comunicar a administração com pelo menos 2 dias úteis de antecedência antes de iniciar qualquer reforma."
-    },
-    {
-      "pergunta": "O que deve ser feito em caso de doença infectocontagiosa na unidade?",
-      "resposta": "O morador deve informar imediatamente ao síndico, subsíndico ou zelador."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso do playground?",
-      "resposta": "O playground é limitado a crianças de até 10 anos, acompanhadas ou não por um responsável."
-    },
-    {
-      "pergunta": "Qual é a responsabilidade dos pais em relação aos menores nas áreas comuns?",
-      "resposta": "Os pais são totalmente responsáveis pela segurança dos menores, incluindo o uso das áreas comuns."
-    },
-    {
-      "pergunta": "Qual é a taxa para o uso do salão de festas?",
-      "resposta": "A taxa de utilização é de 8% do salário mínimo vigente, destinada a cobrir custos de energia e manutenção."
-    },
-    {
-      "pergunta": "O que acontece se um condômino não pagar a taxa do salão de festas após a reserva?",
-      "resposta": "O valor será cobrado no próximo boleto condominial, e o morador não poderá usar o salão se estiver inadimplente."
-    },
-    {
-      "pergunta": "O que acontece em caso de desistência da reserva do salão de festas?",
-      "resposta": "Se a desistência ocorrer sem justificativa até 5 dias antes do evento, a taxa não será devolvida."
-    },
-    {
-      "pergunta": "É permitido o uso do salão de festas nas vésperas de datas festivas tradicionais?",
-      "resposta": "Não, é proibido usar o salão de festas para eventos particulares nas vésperas e dias de Natal, Ano Novo e Carnaval."
-    },
-    {
-      "pergunta": "Qual é o número máximo de convidados permitido no salão de festas?",
-      "resposta": "O limite é de 70 convidados. Se ultrapassar 50 pessoas, é necessário apresentar uma lista de convidados na portaria."
-    },
-    {
-      "pergunta": "O que é necessário para utilizar a sauna?",
-      "resposta": "A sauna deve ser reservada com antecedência e usada por no máximo 1 hora, com intervalos de 30 minutos entre os usos."
-    },
-    {
-      "pergunta": "É permitido o uso da quadra de esportes por convidados?",
-      "resposta": "Sim, desde que o número máximo de convidados seja 10 e o morador esteja presente."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso da sala de ginástica?",
-      "resposta": "A sala é exclusiva para moradores. Não é permitido o uso por convidados, fumar, ou usar trajes de banho."
-    },
-    {
-      "pergunta": "Qual é o horário de funcionamento da sala de ginástica?",
-      "resposta": "Diariamente, das 6h às 24h."
-    },
-    {
-      "pergunta": "O que deve ser feito antes de utilizar os aparelhos da sala de ginástica?",
-      "resposta": "É recomendável que os moradores consultem um médico antes de utilizar os equipamentos."
-    },
-    {
-      "pergunta": "É permitido fumar na sala de ginástica?",
-      "resposta": "Não, é proibido fumar na sala de ginástica."
-    }
-  ]
-}
-
-{
-  "perguntas_respostas": [
-    {
-      "pergunta": "Quais são as regras para o uso das piscinas no condomínio?",
-      "resposta": "O uso é livre para moradores, mas é necessário tomar uma ducha antes de entrar na piscina. É proibido circular fora da área da piscina com trajes de banho."
-    },
-    {
-      "pergunta": "Qual é o horário de funcionamento das piscinas?",
-      "resposta": "O horário é livre, respeitando o sossego dos demais moradores. A piscina é fechada para manutenção toda segunda e quinta-feira."
-    },
-    {
-      "pergunta": "Quais objetos são proibidos na área da piscina?",
-      "resposta": "É proibido o uso de objetos de vidro, cortantes ou pontiagudos. Apenas bóias infantis são permitidas."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso das churrasqueiras?",
-      "resposta": "A churrasqueira deve ser reservada previamente por escrito, com antecedência mínima de 5 dias. O uso é exclusivo para moradores, e o requisitante é responsável pela limpeza após o uso."
-    },
-    {
-      "pergunta": "O que acontece se um morador não estiver em dia com suas taxas e quiser reservar a churrasqueira?",
-      "resposta": "A utilização da churrasqueira é vetada para moradores inadimplentes."
-    },
-    {
-      "pergunta": "Qual é o número máximo de convidados permitido para eventos na churrasqueira?",
-      "resposta": "O limite recomendado é de 20 convidados por churrasqueira. Os nomes dos convidados devem ser apresentados em lista na portaria."
-    },
-    {
-      "pergunta": "O que deve ser feito após o uso da churrasqueira?",
-      "resposta": "O requisitante deve limpar a churrasqueira e acondicionar o lixo em sacos plásticos. Além disso, deve garantir que os móveis sejam colocados de volta no lugar."
-    },
-    {
-      "pergunta": "Qual é o horário permitido para o uso das churrasqueiras com música?",
-      "resposta": "O uso com música é permitido das 8h às 22h."
-    },
-    {
-      "pergunta": "Quais são as restrições para o uso das churrasqueiras em relação a móveis?",
-      "resposta": "É proibido remover os móveis da área das churrasqueiras para outros locais, exceto para eventos organizados pelo condomínio."
-    },
-    {
-      "pergunta": "Como deve ser realizada a reserva da sauna?",
-      "resposta": "A reserva da sauna deve ser feita por escrito com preenchimento de um termo de responsabilidade. O tempo de uso não pode exceder 1 hora contínua, com intervalos de 30 minutos entre os usos."
-    },
-    {
-      "pergunta": "Qual é o horário de funcionamento da sauna?",
-      "resposta": "O horário de funcionamento da sauna é livre, mas deve respeitar os intervalos para preservação dos equipamentos."
-    },
-    {
-      "pergunta": "O que acontece se um morador causar danos ao salão de festas durante um evento?",
-      "resposta": "O requisitante é responsável por quaisquer danos causados. Em caso de atraso no pagamento dos reparos por mais de 30 dias, será aplicada uma multa de 10%, juros de 1% ao mês e atualização pelo IGP-M."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso da quadra de esportes?",
-      "resposta": "A quadra pode ser usada das 8h às 22h, com agendamento prévio. O número máximo de convidados é 10, e o morador deve estar presente."
-    },
-    {
-      "pergunta": "É permitido o uso de calçados inadequados na quadra de esportes?",
-      "resposta": "Não, é proibido o uso de calçados que possam danificar o piso da quadra."
-    },
-    {
-      "pergunta": "Quais são as regras para o uso da sala de ginástica?",
-      "resposta": "A sala de ginástica é exclusiva para moradores, com funcionamento das 6h às 24h. Não é permitido o uso por convidados, fumar ou usar trajes de banho."
-    },
-    {
-      "pergunta": "Quais são as recomendações para o uso dos equipamentos na sala de ginástica?",
-      "resposta": "Os usuários devem consultar um médico antes de usar os equipamentos. Além disso, é obrigatório o uso de toalhas pessoais, e o uso de halteres particulares é proibido."
+      "question": "Posso agendar serviços específicos, como apenas cardação, sem o banho?",
+      "answer": "Sim, é possível agendar serviços específicos como apenas cardação. Basta nos informar sua necessidade para ajustarmos o atendimento."
     }
   ]
 }
