@@ -11,7 +11,7 @@ with open(json_path, "r") as file:
     data = json.load(file)
 
 # Configurar modelo e índice FAISS
-questions = [item["question"] for item in data["perguntas_respostas"]]
+questions = [item["question"] for item in data["qa_pairs"]]
 model = SentenceTransformer('all-MiniLM-L6-v2')
 embeddings = model.encode(questions)
 dimension = embeddings.shape[1]
@@ -35,7 +35,7 @@ def get_answer():
     user_embedding = model.encode([user_question])
     _, indices = index.search(user_embedding, k=1)
     matched_question = questions[indices[0][0]]
-    response = next(item["resposta"] for item in data["perguntas_respostas"] if item["question"] == matched_question)
+    response = next(item["resposta"] for item in data["qa_pairs"] if item["question"] == matched_question)
 
     return jsonify({"response": response})
 
