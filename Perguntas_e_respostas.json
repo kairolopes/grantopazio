@@ -79,6 +79,18 @@
     {
       "question": "Posso agendar serviços específicos, como apenas cardação, sem o banho?",
       "answer": "Sim, é possível agendar serviços específicos como apenas cardação. Basta nos informar sua necessidade para ajustarmos o atendimento."
+    },
+    {
+      "question": "Vargem Grande",
+      "answer": "O valor de Vargem Grande até o Centro é R$ 15,00."
+    },
+     {
+      "question": "Recreio ou Camorim",
+      "answer": "O valor de Recreio / Camorin é R$ 15,00."
+    },
+     {
+      "question": "Vargem Pequeno",
+      "answer": "O valor de Vargem Pequeno é R$ 7,00."
     }
   ]
 }
